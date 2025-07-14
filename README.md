@@ -47,14 +47,15 @@
 
 > An all-in-one Discord bot built to protect, entertain, and manage your server.
 
-- 🚨 Antinuke Protection  
-- ⚙️ AutoMod & Logging  
-- 🎶 Music System  
-- 💬 Hug, Punch, Bite, & Custom Reactions  
-- 🔒 Join-To-Create VC  
-- 🎁 Giveaways, Tickets, and more  
+- 🚨 Antinuke & Whitelist System  
+- 📊 Message Counter with Leaderboard  
+- 💬 Reactions: Hug, Punch, Bite, Cuddle, Boop, etc.  
+- 🧠 Roleinfo, Avatar, Userinfo, Boosters & More  
+- 🔍 NSFW Search, Image & Definition Tools  
+- 📂 Terms & Privacy hosted on GitHub  
 
 [🔗 Terms & Privacy](https://github.com/Zenith-Sosuke/Celestia-Terms-Of-Service)
+
 
 ---
 
