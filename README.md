@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Zenith%20Sosuke&height=180&fontSize=40&animation=fadeIn&desc=Full-stack%20Discord%20Bot%20Developer&descAlign=center&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Zenith%20Sosuke&height=180&fontSize=40&animation=fadeIn&desc=Full-stack%20Discord%20Bot%20Developer&descAlign=center&descAlignY=70&descSize=18" />
 </p>
+
 
 
 ---
