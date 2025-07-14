@@ -38,8 +38,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,java,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,java,github,vscode,mongodb,gcloud,canva" />
 </p>
+
 
 ---
 
