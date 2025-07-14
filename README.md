@@ -38,8 +38,12 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,java,github,vscode,mongodb,gcloud,canva" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,java,github,vscode,mongodb" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
+
 
 
 ---
