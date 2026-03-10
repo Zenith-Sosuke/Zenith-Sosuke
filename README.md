@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Zenith%20Sosuke&height=160&fontSize=42&animation=fadeIn&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20API%20Builder&descAlign=center&descAlignY=72&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Zenith&height=160&fontSize=42&animation=fadeIn&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20API%20Builder&descAlign=center&descAlignY=72&descSize=16" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 I'm a self-taught developer focused on building Discord bots, web interfaces, and public APIs. Most of my work lives at the intersection of backend logic and clean user-facing design.
 
-- Building **Celestia** — a full-featured Discord bot with antinuke, automod, moderation, reaction commands, and more
+- Building **Celestia** — a full-featured Discord bot with antinuke, automod, moderation, NSFW, reaction commands, and more
 - Running **BotForge** — a custom bot ordering service where you can commission a bot built to your needs
 - Published **Sorayomi** — a public REST weather API hosted on Render
 - Stack: Node.js, Discord.js v14, JavaScript, MongoDB, REST APIs, React
@@ -61,7 +61,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 - Custom automod with native Discord integration
 - Message counters, leaderboards, and server stats
 - Reaction commands, avatar tools, role info, boosters
-- NSFW commands, image tools, definition search
+- Image tools, definition search, and utility commands
 - Powershield to protect against moderator abuse
 
 [Terms & Privacy](https://github.com/Zenith-Sosuke/Celestia-Terms-Of-Service) — [Support Server](https://discord.gg/khdzMEJrAz)
