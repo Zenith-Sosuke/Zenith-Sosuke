@@ -1,79 +1,83 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Zenith%20Sosuke&height=180&fontSize=40&animation=fadeIn&desc=Full-stack%20Discord%20Bot%20Developer&descAlign=center&descAlignY=70&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&text=Zenith%20Sosuke&height=160&fontSize=42&animation=fadeIn&desc=Discord%20Bot%20Developer%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20API%20Builder&descAlign=center&descAlignY=72&descSize=16" />
 </p>
-
-
-
----
 
 <p align="center">
   <a href="https://discord.gg/BCUaYVVN55">
-    <img src="https://img.shields.io/badge/Discord%20Bot-Celestia-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Celestia-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/Zenith-Sosuke">
-    <img src="https://img.shields.io/badge/Open%20Source-%E2%9C%94-green?style=for-the-badge&logo=github" />
+  <a href="https://celestia-bot.vercel.app/">
+    <img src="https://img.shields.io/badge/celestia--bot.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-Active-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <a href="https://botforge-bot.vercel.app/">
+    <img src="https://img.shields.io/badge/BotForge-Order%20a%20Bot-E44D26?style=for-the-badge&logo=fire&logoColor=white" />
   </a>
-  <a href="https://www.java.com/">
-    <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  </a>
-  <a href="https://discord.js.org/">
-    <img src="https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://sorayomi-api.onrender.com">
+    <img src="https://img.shields.io/badge/Sorayomi-Weather%20API-0099FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 About Me
+### About Me
 
-- 🔧 Developer of **Celestia**, a powerful all-in-one Discord bot  
-- ⚔️ Specializing in moderation, antinuke systems, reaction commands, and utility tools  
-- 🌱 Learning full-stack bot development with **Node.js**, **Discord.js**, and **Java**  
-- 🧠 Always experimenting, optimizing, and building better bots
+I'm a self-taught developer focused on building Discord bots, web interfaces, and public APIs. Most of my work lives at the intersection of backend logic and clean user-facing design.
+
+- Building **Celestia** — a full-featured Discord bot with antinuke, automod, moderation, NSFW, reaction commands, and more
+- Running **BotForge** — a custom bot ordering service where you can commission a bot built to your needs
+- Published **Sorayomi** — a public REST weather API hosted on Render
+- Stack: Node.js, Discord.js v14, JavaScript, MongoDB, REST APIs, React
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,java,github,vscode,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,express,html,css,github,vscode" />
   <br><br>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-API%20Host-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+---
 
+### Projects
+
+| Project | Type | Link |
+|---|---|---|
+| **Celestia** | Discord Bot | [celestia-bot.vercel.app](https://celestia-bot.vercel.app/) |
+| **BotForge** | Custom Bot Service | [botforge-bot.vercel.app](https://botforge-bot.vercel.app/) |
+| **Sorayomi API** | Public REST Weather API | [sorayomi-api.onrender.com](https://sorayomi-api.onrender.com) |
 
 ---
 
-### 🌟 Celestia Bot
+### Celestia — Discord Bot
 
-> An all-in-one Discord bot built to protect, entertain, and manage your server.
+> A full-scale Discord bot built for moderation, protection, and community management.
 
-- 🚨 Antinuke & Whitelist System  
-- 📊 Message Counter with Leaderboard  
-- 💬 Reactions: Hug, Punch, Bite, Cuddle, Boop, etc.  
-- 🧠 Roleinfo, Avatar, Userinfo, Boosters & More  
-- 🔍 NSFW Search, Image & Definition Tools  
-- 📂 Terms & Privacy hosted on GitHub  
+- Antinuke system with whitelist and admin controls
+- Custom automod with native Discord integration
+- Message counters, leaderboards, and server stats
+- Reaction commands, avatar tools, role info, boosters
+- NSFW commands, image tools, definition search
+- Powershield to protect against moderator abuse
 
-[🔗 Terms & Privacy](https://github.com/Zenith-Sosuke/Celestia-Terms-Of-Service)
-
+[Terms & Privacy](https://github.com/Zenith-Sosuke/Celestia-Terms-Of-Service) — [Support Server](https://discord.gg/khdzMEJrAz)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zenith-Sosuke&show_icons=true&theme=transparent&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zenith-Sosuke&show_icons=true&theme=transparent&border_radius=10&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenith-Sosuke&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenith-Sosuke&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-### 🕹️ Contact
+### Contact
 
-- 📩 DM via [Support Server](https://discord.gg/khdzMEJrAz)
+DM on Discord via the [Support Server](https://discord.gg/khdzMEJrAz) or check out the projects above.
