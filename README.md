@@ -23,7 +23,7 @@
 
 I'm a self-taught developer focused on building Discord bots, web interfaces, and public APIs. Most of my work lives at the intersection of backend logic and clean user-facing design.
 
-- Building **Celestia** — a full-featured Discord bot with antinuke, automod, moderation, NSFW, reaction commands, and more
+- Building **Celestia** — a full-featured Discord bot with antinuke, automod, moderation, reaction commands, and more
 - Running **BotForge** — a custom bot ordering service where you can commission a bot built to your needs
 - Published **Sorayomi** — a public REST weather API hosted on Render
 - Stack: Node.js, Discord.js v14, JavaScript, MongoDB, REST APIs, React
