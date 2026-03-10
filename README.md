@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discord.gg/BCUaYVVN55">
-    <img src="https://img.shields.io/badge/Celestia-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Celestia-Bot-DC2626?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://celestia-bot.vercel.app/">
     <img src="https://img.shields.io/badge/celestia--bot.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -45,11 +45,19 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 
 ### Projects
 
-| Project | Type | Link |
-|---|---|---|
-| **Celestia** | Discord Bot | [celestia-bot.vercel.app](https://celestia-bot.vercel.app/) |
-| **BotForge** | Custom Bot Service | [botforge-bot.vercel.app](https://botforge-bot.vercel.app/) |
-| **Sorayomi API** | Public REST Weather API | [sorayomi-api.onrender.com](https://sorayomi-api.onrender.com) |
+<p align="center">
+  <a href="https://celestia-bot.vercel.app/">
+    <img src="https://img.shields.io/badge/Celestia-Discord%20Bot-DC2626?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://botforge-bot.vercel.app/">
+    <img src="https://img.shields.io/badge/BotForge-Custom%20Bot%20Service-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d12" />
+  </a>
+  &nbsp;
+  <a href="https://sorayomi-api.onrender.com">
+    <img src="https://img.shields.io/badge/Sorayomi-Weather%20API-C4B5FD?style=for-the-badge&logo=cloudfoundry&logoColor=black&labelColor=0d0d12" />
+  </a>
+</p>
 
 ---
 
