@@ -89,7 +89,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 ### Discord
 
 <a href="https://discord.com/users/822374428541190155">
-  <img src="https://lanyard.cnrad.dev/api/822374428541190155?theme=dark&bg=0d1117&borderRadius=10px&animated=true&idleMessage=Probably%20building%20something." />
+  <img src="https://lanyard.cnrad.dev/api/822374428541190155?theme=dark&bg=1a0000&borderRadius=10px&animated=true&idleMessage=Working%20on%20Celestia." />
 </a>
 
 ---
