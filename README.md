@@ -12,7 +12,7 @@
   <a href="https://botforge-bot.vercel.app/">
     <img src="https://img.shields.io/badge/BotForge-Order%20a%20Bot-E44D26?style=for-the-badge&logo=fire&logoColor=white" />
   </a>
-  <a href="https://sorayomi-api.onrender.com">
+  <a href="https://sorayomi-api.zenith-celestiadev.workers.dev">
     <img src="https://img.shields.io/badge/Sorayomi-Weather%20API-0099FF?style=for-the-badge&logo=cloudflare&logoColor=white" />
   </a>
 </p>
@@ -25,7 +25,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 
 - Building **Celestia** — a full-featured Discord bot with antinuke, automod, moderation, reaction commands, and more
 - Running **BotForge** — a custom bot ordering service where you can commission a bot built to your needs
-- Published **Sorayomi** — a public REST weather API hosted on Render
+- Published **Sorayomi** — a public REST weather API hosted on Cloudflare Workers
 - Stack: Node.js, Discord.js v14, JavaScript, MongoDB, REST APIs, React
 
 ---
@@ -37,7 +37,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
   <br><br>
   <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-API%20Host-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare-API%20Host-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
@@ -54,7 +54,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
     <img src="https://img.shields.io/badge/BotForge-Custom%20Bot%20Service-7C3AED?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d12" />
   </a>
   &nbsp;
-  <a href="https://sorayomi-api.onrender.com">
+  <a href="https://sorayomi-api.zenith-celestiadev.workers.dev">
     <img src="https://img.shields.io/badge/Sorayomi-Weather%20API-C4B5FD?style=for-the-badge&logo=cloudfoundry&logoColor=black&labelColor=0d0d12" />
   </a>
 </p>
