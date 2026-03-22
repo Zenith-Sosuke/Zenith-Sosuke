@@ -15,6 +15,9 @@
   <a href="https://sorayomi-api-rr4k.onrender.com">
     <img src="https://img.shields.io/badge/Sorayomi-Weather%20API-0099FF?style=for-the-badge&logo=render&logoColor=white" />
   </a>
+  <a href="https://www.npmjs.com/package/discord.js-toolbox">
+    <img src="https://img.shields.io/badge/discord.js--toolbox-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -26,6 +29,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 - Building **Celestia** — a full-featured Discord bot with antinuke, automod, moderation, reaction commands, and more
 - Running **BotForge** — a custom bot ordering service where you can commission a bot built to your needs
 - Published **Sorayomi** — a public REST weather API hosted on Render
+- Published **discord.js-toolbox** — a utility library for Discord.js v14 bots with embeds, moderation helpers, pagination, formatters, and more
 - Stack: Node.js, Discord.js v14, JavaScript, MongoDB, REST APIs, React
 
 ---
@@ -33,7 +37,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,express,html,css,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,express,html,css,github,vscode,npm" />
   <br><br>
   <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -56,6 +60,10 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
   &nbsp;
   <a href="https://sorayomi-api-rr4k.onrender.com">
     <img src="https://img.shields.io/badge/Sorayomi-Weather%20API-C4B5FD?style=for-the-badge&logo=cloudfoundry&logoColor=black&labelColor=0d0d12" />
+  </a>
+  &nbsp;
+  <a href="https://www.npmjs.com/package/discord.js-toolbox">
+    <img src="https://img.shields.io/badge/discord.js--toolbox-npm%20Package-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0d0d12" />
   </a>
 </p>
 
