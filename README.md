@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+  <a href="https://zenithbuilds.vercel.app/">
+    <img src="https://img.shields.io/badge/zenithbuilds.vercel.app-Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://discord.gg/BCUaYVVN55">
     <img src="https://img.shields.io/badge/Celestia-Bot-DC2626?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
@@ -30,14 +33,15 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 - Running **BotForge** — a custom bot ordering service where you can commission a bot built to your needs
 - Published **Sorayomi** — a public REST weather API hosted on Render
 - Published **discord.js-toolbox** — a utility library for Discord.js v14 bots with embeds, moderation helpers, pagination, formatters, and more
-- Stack: Node.js, Discord.js v14, JavaScript, MongoDB, REST APIs, React
+- Built **PhishGuard** — a URL security analysis tool that runs six independent checks in parallel: Safe Browsing, WHOIS, SSL, typosquatting, pattern analysis, and Unicode homograph detection
+- Stack: Node.js, Discord.js v14, JavaScript, TypeScript, MongoDB, REST APIs, React, Next.js
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,express,html,css,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,mongodb,express,html,css,github,vscode,npm" />
   <br><br>
   <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -50,6 +54,10 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 ### Projects
 
 <p align="center">
+  <a href="https://zenithbuilds.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-zenithbuilds.vercel.app-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
   <a href="https://celestia-bot.vercel.app/">
     <img src="https://img.shields.io/badge/Celestia-Discord%20Bot-DC2626?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
   </a>
@@ -64,6 +72,10 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
   &nbsp;
   <a href="https://www.npmjs.com/package/discord.js-toolbox">
     <img src="https://img.shields.io/badge/discord.js--toolbox-npm%20Package-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0d0d12" />
+  </a>
+  &nbsp;
+  <a href="https://urlcheck.vercel.app/">
+    <img src="https://img.shields.io/badge/PhishGuard-URL%20Security-0066ff?style=for-the-badge&logo=shield&logoColor=white&labelColor=050d1a" />
   </a>
 </p>
 
@@ -81,6 +93,20 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 - Powershield to protect against moderator abuse
 
 [Terms & Privacy](https://github.com/Zenith-Sosuke/Celestia-Terms-Of-Service) — [Support Server](https://discord.gg/khdzMEJrAz)
+
+---
+
+### PhishGuard — URL Security Analysis
+
+> A security tool that analyzes any URL across six independent checks and returns a structured risk report.
+
+- Google Safe Browsing API v4 threat database lookup
+- WHOIS domain age verification
+- SSL/TLS certificate validation
+- Typosquatting detection via Levenshtein distance against 80+ popular domains
+- Suspicious pattern analysis: IP hostnames, subdomain depth, keywords, TLDs
+- Unicode homograph and lookalike character detection
+- Built with Next.js 14, TypeScript, rate-limited serverless API
 
 ---
 
