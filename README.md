@@ -74,7 +74,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
     <img src="https://img.shields.io/badge/discord.js--toolbox-npm%20Package-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0d0d12" />
   </a>
   &nbsp;
-  <a href="https://urlcheck.vercel.app/">
+  <a href="https://phishguard-scan.vercel.app/">
     <img src="https://img.shields.io/badge/PhishGuard-URL%20Security-0066ff?style=for-the-badge&logo=shield&logoColor=white&labelColor=050d1a" />
   </a>
 </p>
@@ -106,7 +106,7 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 - Typosquatting detection via Levenshtein distance against 80+ popular domains
 - Suspicious pattern analysis: IP hostnames, subdomain depth, keywords, TLDs
 - Unicode homograph and lookalike character detection
-- Built with Next.js 14, TypeScript, rate-limited serverless API
+- Built with Next.js 14, TypeScript
 
 ---
 
