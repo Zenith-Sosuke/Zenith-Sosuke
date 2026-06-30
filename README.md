@@ -3,14 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://zenithbuilds.vercel.app/">
-    <img src="https://img.shields.io/badge/zenithbuilds.vercel.app-Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://zeni.wtf/">
+    <img src="https://img.shields.io/badge/zeni.wtf-Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://discord.gg/BCUaYVVN55">
     <img src="https://img.shields.io/badge/Celestia-Bot-DC2626?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://celestia-bot.vercel.app/">
-    <img src="https://img.shields.io/badge/celestia--bot.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://celestia.rest/">
+    <img src="https://img.shields.io/badge/celestia.rest-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://hiyuki.lol/">
+    <img src="https://img.shields.io/badge/hiyuki.lol-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://botforge-bot.vercel.app/">
     <img src="https://img.shields.io/badge/BotForge-Order%20a%20Bot-E44D26?style=for-the-badge&logo=fire&logoColor=white" />
@@ -29,12 +32,13 @@
 
 I'm a self-taught developer focused on building Discord bots, web interfaces, and public APIs. Most of my work lives at the intersection of backend logic and clean user-facing design.
 
-- Building **Celestia** — a full-featured Discord bot with antinuke, automod, moderation, reaction commands, and more
-- Running **BotForge** — a custom bot ordering service where you can commission a bot built to your needs
-- Published **Sorayomi** — a public REST weather API hosted on Render
-- Published **discord.js-toolbox** — a utility library for Discord.js v14 bots with embeds, moderation helpers, pagination, formatters, and more
-- Built **PhishGuard** — a URL security analysis tool that runs six independent checks in parallel: Safe Browsing, WHOIS, SSL, typosquatting, pattern analysis, and Unicode homograph detection
-- Stack: Node.js, Discord.js v14, JavaScript, TypeScript, MongoDB, REST APIs, React, Next.js
+- Building **Celestia**, a full-featured Discord bot with antinuke, automod, moderation, reaction commands, and more
+- Building **Hiyuki**, a Discord music platform with synchronized web playback, playlist imports, and a live remote queue
+- Running **BotForge**, a custom bot ordering service where you can commission a bot built to your needs
+- Published **Sorayomi**, a public REST weather API hosted on Render
+- Published **discord.js-toolbox**, a utility library for Discord.js v14 bots with embeds, moderation helpers, pagination, formatters, and more
+- Built **PhishGuard**, a URL security analysis tool that runs six independent checks in parallel: Safe Browsing, WHOIS, SSL, typosquatting, pattern analysis, and Unicode homograph detection
+- Stack: Node.js, Discord.js v14, JavaScript, TypeScript, MongoDB, REST APIs, React, Next.js, Lavalink
 
 ---
 
@@ -54,12 +58,16 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 ### Projects
 
 <p align="center">
-  <a href="https://zenithbuilds.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-zenithbuilds.vercel.app-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+  <a href="https://zeni.wtf/">
+    <img src="https://img.shields.io/badge/Portfolio-zeni.wtf-00d4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://celestia-bot.vercel.app/">
+  <a href="https://celestia.rest/">
     <img src="https://img.shields.io/badge/Celestia-Discord%20Bot-DC2626?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://hiyuki.lol/">
+    <img src="https://img.shields.io/badge/Hiyuki-Music%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
   <a href="https://botforge-bot.vercel.app/">
@@ -74,16 +82,16 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
     <img src="https://img.shields.io/badge/discord.js--toolbox-npm%20Package-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0d0d12" />
   </a>
   &nbsp;
-  <a href="https://phishguard-scan.vercel.app/">
+  <a href="https://phishguard.celestia.rest/">
     <img src="https://img.shields.io/badge/PhishGuard-URL%20Security-0066ff?style=for-the-badge&logo=shield&logoColor=white&labelColor=050d1a" />
   </a>
 </p>
 
 ---
 
-### Celestia — Discord Bot
+### Celestia · Discord Bot
 
-> A full-scale Discord bot built for moderation, protection, and community management.
+> A full scale Discord bot built for moderation, protection, and community management.
 
 - Antinuke system with whitelist and admin controls
 - Custom automod with native Discord integration
@@ -91,12 +99,27 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 - Reaction commands, avatar tools, role info, boosters
 - Image tools, definition search, and utility commands
 - Powershield to protect against moderator abuse
+- Seraphine AI moderation and Aurelia vanity tracking subsystems
 
-[Terms & Privacy](https://github.com/Zenith-Sosuke/Celestia-Terms-Of-Service) — [Support Server](https://discord.gg/khdzMEJrAz)
+[Site](https://celestia.rest/) · [Invite](https://discord.com/oauth2/authorize?client_id=1372066291397169162) · [Seraphine Docs](https://docs.celestia.rest/seraphine) · [Aurelia Docs](https://docs.celestia.rest/vanity-tracking) · [Terms & Privacy](https://github.com/Zenith-Sosuke/Celestia-Terms-Of-Service) · [Support Server](https://discord.gg/khdzMEJrAz)
 
 ---
 
-### PhishGuard — URL Security Analysis
+### Hiyuki · Discord Music Bot
+
+> A modern Discord music platform built for the next generation of Discord users.
+
+- Synchronized web playback with a live remote queue builder
+- Playlist imports from Spotify, SoundCloud, and YouTube
+- Persistent live control panels and real time queue synchronization
+- Lyrics, replay history, and a music leaderboard with multiple scopes
+- Unified bot backed architecture with Lavalink
+
+[Site](https://hiyuki.lol/) · [Invite](https://discord.com/oauth2/authorize?client_id=1510517568031559781)
+
+---
+
+### PhishGuard · URL Security Analysis
 
 > A security tool that analyzes any URL across six independent checks and returns a structured risk report.
 
@@ -107,6 +130,8 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 - Suspicious pattern analysis: IP hostnames, subdomain depth, keywords, TLDs
 - Unicode homograph and lookalike character detection
 - Built with Next.js 14, TypeScript
+
+[Site](https://phishguard.celestia.rest/) · [Status](https://phishguard.celestia.rest/api/health)
 
 ---
 
@@ -123,11 +148,11 @@ I'm a self-taught developer focused on building Discord bots, web interfaces, an
 ### Discord
 
 <a href="https://discord.com/users/822374428541190155">
-  <img src="https://lanyard.cnrad.dev/api/822374428541190155?theme=light&bg=F4BFC7&borderRadius=10px&animated=true&idleMessage=Working%20on%20Celestia." />
+  <img src="https://lanyard.cnrad.dev/api/822374428541190155?theme=light&bg=F4BFC7&borderRadius=10px&animated=true&idleMessage=Working%20on%20Hiyuki." />
 </a>
 
 ---
 
 ### Contact
 
-DM on Discord via the [Support Server](https://discord.gg/khdzMEJrAz) or check out the projects above.
+DM on Discord via the [Support Server](https://discord.gg/khdzMEJrAz), or check out the projects above at [zeni.wtf](https://zeni.wtf/).
